@@ -1,0 +1,66 @@
+body {
+    align-items: center;
+    text-align: center;
+    background-image: url("https://res.cloudinary.com/dyhess8yw/image/upload/v1682515793/blog/wp3228059-cartoon-farm-background_1_jvr8pt.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.btn1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    background-color: #4CAF50; /* Green */
+    
+}
+
+.btn1 a {
+    text-decoration: none;
+}
+
+.btn1:hover {
+    background-color: white; /* Green */  
+  }
+
+.btn2 {
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    background-color: red; /* Green */
+}
+
+.btn2:hover {
+    background-color: white; /* Green */
+    color:  red;
+  }
+  
+.btn2 a {
+    text-decoration: none;
+}
+
+.btn3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    background-color: blueviolet; /* Green */
+}
+
+.btn3:hover {
+    background-color: white; /* Green */
+    color:  blueviolet;
+  }
+
+  .btn3 a {
+    text-decoration: none;
+}
