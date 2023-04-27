@@ -4,6 +4,7 @@ body {
     background-image: url("https://res.cloudinary.com/dyhess8yw/image/upload/v1682515793/blog/wp3228059-cartoon-farm-background_1_jvr8pt.png");
     background-size:cover;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 #container {
@@ -64,3 +65,5 @@ body {
   .btn3 a {
     text-decoration: none;
 }
+
+

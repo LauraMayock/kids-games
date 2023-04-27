@@ -24,3 +24,5 @@ function myFunction3() {
     document.getElementById("btnInfo3").innerHTML = "Try and find the hidden pairs";
     z.style = 'color: #4CAF50'
 }
+
+
